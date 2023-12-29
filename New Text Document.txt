@@ -1,0 +1,2 @@
+npm create vite@latest ./ -- --template react      
+  >>> create react app without naming it as it already folder exist with that name
